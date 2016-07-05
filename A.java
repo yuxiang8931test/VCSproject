@@ -5,5 +5,5 @@ package com.example.yuxiang.vcsproject;
  */
 public class A {
 
-    ssss
+   
 }
