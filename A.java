@@ -5,6 +5,7 @@ package com.example.yuxiang.vcsproject;
  */
 public class A {
 
-	branch test2.
+	branch master.
+	contents hanve been changed.
    
 }
